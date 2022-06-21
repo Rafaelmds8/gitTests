@@ -1,0 +1,7 @@
+git init
+git status
+git add
+git commit -m "colocar um comentário"
+ git push
+git checkout -b "nome da branch"
+git pull
